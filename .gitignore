@@ -1,0 +1,7 @@
+certbot/conf/accounts
+certbot/conf/archive
+certbot/conf/live
+certbot/conf/renewal
+certbot/conf/renewal/hooks
+nginx/conf/*.conf
+!nginx/conf/website.com.conf
